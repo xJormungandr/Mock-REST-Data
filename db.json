@@ -8,8 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {     
-      "id": 101,
+  "profile": {          
       "name": "Alice Johnson",
       "email": "alice@example.com",
       "age": 25
